@@ -1,1 +1,1 @@
-So far in this course, I have learned how to manage Git repositories and collaborate on projects using GitHub.
+What I have learned from this course
